@@ -1,0 +1,573 @@
+!track Heracross iv100 
+!track Smeargle iv100 
+!track Tropius iv100 
+!track Spiritomb iv100 
+!track Riolu iv100 
+!track Lucario iv100 
+!track Rotom iv100 
+!track Sandile iv100 
+!track Larvesta iv100 
+!track Honedge iv100 
+!track Kangaskhan iv100 
+!track Mr. Mime formNormal iv100 
+!track Mr. Mime formGalarian iv100 
+!track Corsola iv100 
+!track Spinda iv100 
+!track Kecleon iv100 
+!track Relicanth iv100 
+!track Pachirisu iv100 
+!track Chatot iv100 
+!track Carnivine iv100 
+!track Sawk iv100 
+!track Maractus iv100 
+!track Sigilyph iv100 
+!track Klink iv100 
+!track Mienfoo iv100 
+!track Druddigon iv100 
+!track Pawniard iv100 
+!track Bouffalant iv100 
+!track Vullaby iv100 
+!track Heatmor iv100 
+!track Scatterbug iv100 
+!track Skiddo iv100 
+!track Espurr iv100 
+!track Hawlucha iv100 
+!track Carbink iv100 
+!track Klefki iv100 
+!track Farfetch'd formNormal iv100 
+!track Lapras great1 
+!track Vulpix formAlola level20 maxLevel40 great1 
+!track Vulpix formAlola level25 maxLevel40 ultra1 
+!track Comfey iv100 
+!track Rockruff iv100 
+!track Wishiwashi iv100 
+!track Mudbray iv100 
+!track Salandit iv100 female
+!track Pyukumuku iv100 
+!track Minior iv100 
+!track Turtonator iv100 
+!track Mimikyu iv100 
+!track Drampa iv100 
+!track Dhelmise iv100 
+!track Meowth formGalarian iv100 
+!track Raichu formAlola iv100 
+!track Pancham iv100 
+!track Azelf iv100 
+!track Basculin formRed-Striped iv100 
+!track Qwilfish formHisuian level0 maxLevel26 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Scraggy level25 maxLevel25 atk0 def8 sta15 maxatk0 maxdef8 maxsta15 
+!track Latios iv100 
+!track Latias iv100 
+!track Ponyta formGalarian level20 maxLevel23 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Bunnelby level30 maxLevel40 great1 
+!track Inkay great1 
+!track Caterpie level25 maxLevel40 great1 
+!track Pidgey level25 maxLevel40 great1 
+!track Rattata formNormal level25 maxLevel40 great1 
+!track Rattata formAlola level25 maxLevel40 great1 
+!track Spearow level25 maxLevel40 great1 
+!track Ekans level25 maxLevel40 great1 
+!track Pikachu level25 maxLevel40 great1 
+!track Raichu formAlola great1 
+!track Sandshrew formNormal level20 maxLevel40 great1 
+!track Sandshrew formNormal level25 maxLevel40 ultra1 
+!track Sandshrew formAlola level25 maxLevel40 ultra1 
+!track Clefairy level20 maxLevel40 great1 
+!track Vulpix formNormal level20 maxLevel40 great1 
+!track Vulpix formNormal level25 maxLevel40 ultra1 
+!track Zubat level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Oddish level20 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Oddish level25 maxLevel40 ultra1 
+!track NidoranF level20 maxLevel50 great1 
+!track NidoranF level25 maxLevel50 ultra1 
+!track Paras level25 maxLevel40 great1 
+!track Venonat level25 maxLevel40 great1 
+!track Diglett formNormal level25 maxLevel40 great1 
+!track Diglett formAlola level25 maxLevel40 great1 
+!track Meowth formNormal level25 maxLevel40 great1 
+!track Meowth formAlola level25 maxLevel40 great1 
+!track Meowth formGalarian level20 maxLevel40 great1 
+!track Meowth formGalarian level25 maxLevel40 ultra1 
+!track Psyduck level20 maxLevel40 great1 
+!track Psyduck level25 maxLevel40 ultra1 
+!track Machop level15 maxLevel40 atk0 def14 sta11 maxatk0 maxdef14 maxsta11 great1 
+!track Bellsprout level25 maxLevel40 ultra1 
+!track Bellsprout level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Tentacool level20 maxLevel40 great1 
+!track Tentacool level25 maxLevel40 ultra1 
+!track Geodude formNormal level25 maxLevel40 ultra1 
+!track Geodude formAlola level25 maxLevel40 ultra1 
+!track Geodude formNormal level15 maxLevel40 atk1 def14 sta15 maxatk1 maxdef14 maxsta15 great1 
+!track Geodude formAlola level15 maxLevel40 atk1 def14 sta15 maxatk1 maxdef14 maxsta15 great1 
+!track Ponyta formNormal level20 maxLevel40 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Ponyta formNormal level25 maxLevel40 ultra1 
+!track Ponyta formGalarian level25 maxLevel40 ultra1 
+!track Slowpoke formNormal level20 maxLevel40 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Slowpoke formNormal level25 maxLevel40 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 
+!track Slowpoke formGalarian level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Slowpoke formGalarian level25 maxLevel40 atk1 def15 sta11 maxatk1 maxdef15 maxsta11 
+!track Magnemite level20 maxLevel40 ultra1 
+!track Magnemite level15 maxLevel40 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Doduo level20 maxLevel40 great1 
+!track Doduo level25 maxLevel40 ultra1 
+!track Grimer level20 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Shellder level20 maxLevel40 great1 
+!track Shellder level25 maxLevel40 ultra1 
+!track Gastly level15 maxLevel40 atk0 def13 sta13 maxatk0 maxdef13 maxsta13 great1 
+!track Drowzee great1 
+!track Krabby level15 maxLevel20 atk0 def9 sta15 maxatk0 maxdef9 maxsta15 great1 
+!track Krabby level25 maxLevel40 ultra1 
+!track Voltorb formNormal level20 maxLevel40 great1 
+!track Voltorb formHisuian level20 maxLevel40 great1 
+!track Exeggcute level15 maxLevel40 great1 
+!track Exeggcute level25 maxLevel40 ultra1 
+!track Exeggutor formAlola level15 maxLevel40 great1 
+!track Exeggutor formAlola level25 maxLevel40 ultra1 
+!track Cubone formNormal level25 maxLevel40 great1 
+!track Hitmonlee level20 maxLevel40 great1 
+!track Hitmonlee level25 maxLevel40 ultra1 
+!track Hitmonchan level20 maxLevel40 great1 
+!track Hitmonchan level30 maxLevel40 ultra1 
+!track Lickitung level25 maxLevel40 atk8 def14 sta15 maxatk8 maxdef14 maxsta15 great1 
+!track Koffing level20 maxLevel40 great1 
+!track Koffing level25 maxLevel40 ultra1 
+!track Weezing formGalarian level20 maxLevel40 great1 
+!track Weezing formGalarian level25 maxLevel40 ultra1 
+!track Kangaskhan level15 maxLevel40 great1 
+!track Kangaskhan level25 maxLevel40 ultra1 
+!track Goldeen level25 maxLevel40 great1 
+!track Staryu level20 maxLevel40 great1 
+!track Staryu level25 maxLevel40 ultra1 
+!track Mr. Mime formNormal level20 maxLevel40 great1 
+!track Mr. Mime formGalarian level15 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 great1 
+!track Mr. Mime formGalarian level25 maxLevel40 ultra1 
+!track Jynx level15 maxLevel40 great1 
+!track Jynx level25 maxLevel40 ultra1 
+!track Pinsir level15 maxLevel40 great1 
+!track Pinsir level25 maxLevel40 ultra1 
+!track Tauros level20 maxLevel40 great1 
+!track Tauros level25 maxLevel40 ultra1 
+!track Magikarp level15 maxLevel40 great1 
+!track Lapras level25 maxLevel40 ultra1 
+!track Eevee level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Eevee level25 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 ultra1 
+!track Eevee level15 maxLevel40 atk0 def12 sta15 maxatk0 maxdef12 maxsta15 great1 
+!track Eevee level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 ultra1 
+!track Eevee level25 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 ultra1 
+!track Eevee level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Dratini level10 maxLevel40 atk3 def15 sta14 maxatk3 maxdef15 maxsta14 great1 
+!track Chikorita level20 maxLevel40 atk0 def10 sta15 maxatk0 maxdef10 maxsta15 great1 
+!track Cyndaquil level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Totodile level25 maxLevel40 ultra1 
+!track Totodile level15 maxLevel40 atk0 def11 sta13 maxatk0 maxdef11 maxsta13 great1 
+!track Sentret level25 maxLevel40 great1 
+!track Spinarak level25 maxLevel40 great1 
+!track Zubat level15 maxLevel40 atk0 def15 sta12 maxatk0 maxdef15 maxsta12 great1 
+!track Zubat level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta14 ultra1 
+!track Natu level20 maxLevel40 great1 
+!track Oddish level20 maxLevel40 atk1 def14 sta14 maxatk1 maxdef14 maxsta14 great1 
+!track Oddish level25 maxLevel40 atk9 def15 sta15 maxatk9 maxdef15 maxsta15 ultra1 
+!track Sudowoodo level25 maxLevel40 great1 
+!track Hoppip level25 maxLevel40 great1 
+!track Sunkern level25 maxLevel40 great1 
+!track Eevee level13 maxLevel17 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Eevee level25 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 ultra1 
+!track Girafarig level25 maxLevel40 great1 
+!track Pineco level20 maxLevel40 great1 
+!track Pineco level25 maxLevel40 ultra1 
+!track Dunsparce level25 maxLevel40 great1 
+!track Snubbull level25 maxLevel40 ultra1 
+!track Qwilfish formNormal level25 maxLevel40 great1 
+!track Scyther level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Scyther atk0 def15 sta15 maxatk0 maxdef15 maxsta15 ultra1 
+!track Heracross level15 maxLevel40 great1 
+!track Heracross level25 maxLevel40 ultra1 
+!track Teddiursa level15 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 great1 
+!track Teddiursa level25 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 ultra1 
+!track Remoraid level20 maxLevel40 great1 
+!track Remoraid level25 maxLevel40 ultra1 
+!track Mantine level25 maxLevel40 great1 
+!track Horsea level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Horsea level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 ultra1 
+!track Phanpy level25 maxLevel40 ultra1 
+!track Stantler level20 maxLevel40 great1 
+!track Hitmontop level20 maxLevel40 great1 
+!track Miltank level20 maxLevel40 great1 
+!track Miltank level30 maxLevel40 ultra1 
+!track Chansey level15 maxLevel40 great1 
+!track Chansey level25 maxLevel40 ultra1 
+!track Larvitar level10 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Larvitar level20 maxLevel40 ultra1 
+!track Treecko level15 maxLevel40 atk0 def12 sta15 maxatk0 maxdef12 maxsta15 great1 
+!track Treecko level25 maxLevel40 ultra1 
+!track Torchic level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Torchic level25 maxLevel40 ultra1 
+!track Mudkip level25 maxLevel40 great1 
+!track Poochyena level25 maxLevel40 great1 
+!track Zigzagoon formNormal level25 maxLevel40 great1 
+!track Wurmple level25 maxLevel40 great1 
+!track Lotad level20 maxLevel40 great1 
+!track Lotad level25 maxLevel40 ultra1 
+!track Seedot level25 maxLevel40 ultra1 
+!track Taillow level25 maxLevel40 great1 
+!track Ralts level15 maxLevel40 great1 
+!track Ralts level25 maxLevel40 ultra1 
+!track Surskit level20 maxLevel40 great1 
+!track Surskit level25 maxLevel40 ultra1 
+!track Shroomish level15 maxLevel40 great1 
+!track Shroomish level25 maxLevel40 ultra1 
+!track Slakoth level10 maxLevel40 atk0 def0 sta0 maxatk0 maxdef15 maxsta15 great1 
+!track Slakoth level15 maxLevel40 ultra1 
+!track Nincada level25 maxLevel40 great1 
+!track Whismur level20 maxLevel40 great1 
+!track Whismur level25 maxLevel40 ultra1 
+!track Makuhita level15 maxLevel40 great1 
+!track Makuhita level25 maxLevel40 ultra1 
+!track Skitty level25 maxLevel40 great1 
+!track Mawile level25 maxLevel40 great1 
+!track Aron level15 maxLevel40 atk0 def14 sta12 maxatk0 maxdef14 maxsta12 great1 
+!track Aron level25 maxLevel40 ultra1 
+!track Electrike level20 maxLevel40 great1 
+!track Electrike level25 maxLevel40 ultra1 
+!track Plusle level25 maxLevel40 great1 
+!track Minun level25 maxLevel40 great1 
+!track Volbeat level25 maxLevel40 great1 
+!track Illumise level25 maxLevel40 great1 
+!track Gulpin level25 maxLevel40 great1 
+!track Carvanha level20 maxLevel40 great1 
+!track Wailmer level20 maxLevel40 great1 
+!track Wailmer level30 maxLevel40 great1 
+!track Numel level20 maxLevel40 great1 
+!track Torkoal level25 maxLevel40 great1 
+!track Spoink level20 maxLevel40 great1 
+!track Spoink level25 maxLevel40 ultra1 
+!track Trapinch level15 maxLevel40 great1 
+!track Trapinch level25 maxLevel40 ultra1 
+!track Cacnea level20 maxLevel40 great1 
+!track Cacnea level30 maxLevel40 ultra1 
+!track Zangoose level20 maxLevel40 great1 
+!track Zangoose level25 maxLevel40 ultra1 
+!track Seviper level25 maxLevel40 great1 
+!track Lunatone level20 maxLevel40 great1 
+!track Lunatone level25 maxLevel40 ultra1 
+!track Corphish level20 maxLevel40 great1 
+!track Baltoy level20 maxLevel40 great1 
+!track Lileep level20 maxLevel40 great1 
+!track Feebas level15 maxLevel40 great1 
+!track Feebas level25 maxLevel40 ultra1 
+!track Castform formRainy level25 maxLevel40 atk4 def14 sta15 maxatk4 maxdef14 maxsta15 
+!track Castform formSunny level25 maxLevel40 atk4 def14 sta15 maxatk4 maxdef14 maxsta15 
+!track Castform formSnowy level25 maxLevel40 atk4 def14 sta15 maxatk4 maxdef14 maxsta15 
+!track Shuppet level20 maxLevel40 great1 
+!track Shuppet level25 maxLevel40 ultra1 
+!track Duskull level25 maxLevel40 atk0 def11 sta15 maxatk0 maxdef11 maxsta15 great1 
+!track Chimecho level20 maxLevel40 great1 
+!track Absol level20 maxLevel40 great1 
+!track Absol level25 maxLevel40 ultra1 
+!track Snorunt level25 maxLevel40 great1 
+!track Bagon level10 maxLevel40 atk0 def10 sta14 maxatk0 maxdef10 maxsta14 
+!track Bagon level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 
+!track Beldum level25 maxLevel40 great1 
+!track Beldum level10 maxLevel40 atk0 def15 sta15 maxatk2 maxdef15 maxsta15 great1 
+!track Beldum level20 maxLevel40 ultra1 
+!track Turtwig level25 maxLevel40 ultra1 
+!track Chimchar level15 maxLevel40 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Chimchar level25 maxLevel40 ultra1 
+!track Starly level15 maxLevel40 great1 
+!track Starly level25 maxLevel40 ultra1 
+!track Bidoof level25 maxLevel40 great1 
+!track Kricketot level25 maxLevel40 great1 
+!track Shinx level15 maxLevel40 atk0 def15 sta12 maxatk0 maxdef15 maxsta12 great1 
+!track Shinx level25 maxLevel40 ultra1 
+!track Roselia level15 maxLevel40 atk0 def11 sta14 maxatk0 maxdef11 maxsta14 great1 
+!track Cranidos level15 maxLevel40 atk0 def14 sta8 maxatk1 maxdef14 maxsta8 great1 
+!track Cranidos level25 maxLevel40 ultra1 
+!track Burmy formPlant_Cloak level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 female
+!track Burmy formSandy_Cloak level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 female
+!track Burmy level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 male
+!track Combee level20 maxLevel40 great1 female
+!track Buizel level20 maxLevel40 great1 
+!track Buizel level25 maxLevel40 ultra1 
+!track Cherrim level20 maxLevel40 atk0 def14 sta13 maxatk4 maxdef14 maxsta13 
+!track Shellos level20 maxLevel40 great1 
+!track Shellos level25 maxLevel40 ultra1 
+!track Aipom level20 maxLevel40 atk0 def13 sta14 maxatk0 maxdef13 maxsta14 great1 
+!track Aipom level25 maxLevel40 ultra1 
+!track Cherubi level20 maxLevel40 great1 
+!track Buneary level25 maxLevel40 great1 
+!track Misdreavus level25 maxLevel40 ultra1 
+!track Misdreavus level15 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Murkrow level15 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Glameow level25 maxLevel40 great1 
+!track Stunky level20 maxLevel40 great1 
+!track Stunky level25 maxLevel40 ultra1 
+!track Gible level10 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Gible level20 maxLevel40 ultra1 
+!track Hippopotas level15 maxLevel40 atk0 def0 sta0 maxatk0 maxdef15 maxsta15 great1 
+!track Hippopotas level25 maxLevel40 ultra1 
+!track Skorupi level20 maxLevel40 great1 
+!track Skorupi level25 maxLevel40 ultra1 
+!track Croagunk level25 maxLevel40 ultra1 
+!track Finneon level25 maxLevel40 great1 
+!track Lickitung level20 maxLevel40 atk0 def15 sta10 maxatk0 maxdef15 maxsta10 great1 
+!track Lickitung level25 maxLevel40 ultra1 
+!track Tangela level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Tangela level25 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 ultra1 
+!track Electabuzz level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Electabuzz level25 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 ultra1 
+!track Magmar level15 maxLevel40 atk0 def10 sta15 maxatk0 maxdef10 maxsta15 great1 
+!track Magmar level25 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 ultra1 
+!track Yanma level15 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 great1 
+!track Yanma level25 maxLevel40 ultra1 
+!track Eevee level25 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 ultra1 
+!track Eevee level15 maxLevel40 atk0 def15 sta12 maxatk0 maxdef15 maxsta12 great1 
+!track Swinub level15 maxLevel40 atk0 def15 sta7 maxatk0 maxdef15 maxsta7 great1 
+!track Swinub level25 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 ultra1 
+!track Porygon level15 maxLevel40 atk1 def15 sta13 maxatk1 maxdef15 maxsta13 great1 
+!track Porygon level25 maxLevel40 atk0 def13 sta14 maxatk0 maxdef13 maxsta14 ultra1 
+!track Ralts level15 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 male
+!track Ralts level25 maxLevel40 atk0 def12 sta15 maxatk0 maxdef12 maxsta15 ultra1 male
+!track Nosepass level25 maxLevel40 great1 
+!track Duskull level25 maxLevel40 ultra1 
+!track Duskull level20 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 great1 
+!track Snivy level25 maxLevel40 ultra1 
+!track Tepig level15 maxLevel40 atk0 def14 sta9 maxatk0 maxdef14 maxsta9 great1 
+!track Tepig level25 maxLevel40 ultra1 
+!track Oshawott level25 maxLevel40 ultra1 
+!track Patrat level25 maxLevel40 great1 
+!track Lillipup level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Lillipup level25 maxLevel40 ultra1 
+!track Purrloin level25 maxLevel40 great1 
+!track Pansage great1 
+!track Panpour level20 maxLevel40 great1 
+!track Panpour level25 maxLevel40 ultra1 
+!track Munna level15 maxLevel40 great1 
+!track Munna level25 maxLevel40 ultra1 
+!track Pidove level15 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 great1 male
+!track Pidove level25 maxLevel40 ultra1 male
+!track Blitzle level20 maxLevel40 great1 
+!track Blitzle level25 maxLevel40 ultra1 
+!track Roggenrola level15 maxLevel40 atk0 def11 sta15 maxatk0 maxdef11 maxsta15 great1 
+!track Woobat level25 maxLevel40 great1 
+!track Drilbur level15 maxLevel40 atk2 def15 sta15 maxatk2 maxdef15 maxsta15 great1 
+!track Drilbur level25 maxLevel40 ultra1 
+!track Audino level25 maxLevel40 great1 
+!track Tympole level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Throh level20 maxLevel40 great1 
+!track Throh level25 maxLevel40 ultra1 
+!track Sawk level15 maxLevel40 great1 
+!track Sawk level25 maxLevel40 ultra1 
+!track Sewaddle level15 maxLevel40 atk0 def13 sta14 maxatk0 maxdef13 maxsta14 great1 
+!track Sewaddle level25 maxLevel40 ultra1 
+!track Venipede level20 maxLevel40 great1 
+!track Venipede level25 maxLevel40 ultra1 
+!track Cottonee level25 maxLevel40 great1 
+!track Basculin level25 maxLevel40 great1 
+!track Sandile level15 maxLevel40 atk0 def13 sta14 maxatk0 maxdef13 maxsta14 great1 
+!track Sandile level25 maxLevel40 ultra1 
+!track Dwebble level15 maxLevel40 great1 
+!track Dwebble level25 maxLevel40 ultra1 
+!track Trubbish level20 maxLevel40 great1 
+!track Trubbish level25 maxLevel40 ultra1 
+!track Zorua level15 maxLevel40 great1 
+!track Zorua level25 maxLevel40 ultra1 
+!track Minccino level20 maxLevel40 great1 
+!track Minccino level25 maxLevel40 ultra1 
+!track Gothita level20 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Gothita level25 maxLevel40 ultra1 
+!track Solosis level15 maxLevel40 atk2 def15 sta15 maxatk2 maxdef15 maxsta15 great1 
+!track Solosis level25 maxLevel40 ultra1 
+!track Ducklett level20 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Ducklett level25 maxLevel40 great1 
+!track Vanillite level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Vanillite level25 maxLevel40 ultra1 
+!track Deerling level20 maxLevel40 great1 
+!track Deerling level20 maxLevel40 ultra1 
+!track Emolga level25 maxLevel40 great1 
+!track Karrablast level15 maxLevel40 great1 
+!track Foongus level20 maxLevel40 great1 
+!track Alomomola level20 maxLevel40 great1 
+!track Tynamo level15 maxLevel40 atk1 def15 sta14 maxatk1 maxdef15 maxsta14 great1 
+!track Tynamo level25 maxLevel40 ultra1 
+!track Elgyem level15 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 great1 
+!track Elgyem level25 maxLevel40 ultra1 
+!track Cubchoo level15 maxLevel40 great1 
+!track Cubchoo level25 maxLevel40 ultra1 
+!track Cryogonal level15 maxLevel40 great1 
+!track Cryogonal level25 maxLevel40 ultra1 
+!track Shelmet level20 maxLevel40 great1 
+!track Shelmet level25 maxLevel40 ultra1 
+!track Mienfoo level15 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Mienfoo level25 maxLevel40 ultra1 
+!track Golett level15 maxLevel40 great1 
+!track Golett level25 maxLevel40 ultra1 
+!track Pawniard level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Pawniard level25 maxLevel40 ultra1 
+!track Rufflet level15 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Vullaby level20 maxLevel40 great1 
+!track Heatmor level20 maxLevel40 great1 
+!track Heatmor level25 maxLevel40 ultra1 
+!track Durant level15 maxLevel40 great1 
+!track Durant level25 maxLevel40 ultra1 
+!track Deino level10 maxLevel40 atk0 def15 sta10 maxatk0 maxdef15 maxsta10 great1 
+!track Deino level20 maxLevel40 ultra1 
+!track Fennekin level15 maxLevel40 atk0 def11 sta14 maxatk0 maxdef11 maxsta14 great1 
+!track Fennekin level25 maxLevel40 ultra1 
+!track Litleo level15 maxLevel40 atk0 def15 sta10 maxatk0 maxdef15 maxsta10 great1 
+!track Litleo level25 maxLevel40 ultra1 
+!track Flabébé level15 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 great1 
+!track Flabébé level25 maxLevel40 ultra1 
+!track Skiddo level15 maxLevel40 great1 
+!track Skiddo level25 maxLevel40 ultra1 
+!track Pancham level15 maxLevel40 atk0 def13 sta13 maxatk0 maxdef13 maxsta13 great1 
+!track Pancham level25 maxLevel40 ultra1 
+!track Furfrou level25 maxLevel40 great1 
+!track Espurr level25 maxLevel40 great1 
+!track Spritzee level20 maxLevel40 great1 
+!track Spritzee level25 maxLevel40 ultra1 
+!track Inkay level25 maxLevel40 ultra1 
+!track Binacle level15 maxLevel40 great1 
+!track Binacle level25 maxLevel40 ultra1 
+!track Skrelp level20 maxLevel40 great1 
+!track Clauncher level15 maxLevel40 great1 
+!track Clauncher level25 maxLevel40 ultra1 
+!track Helioptile level15 maxLevel40 great1 
+!track Helioptile level25 maxLevel40 ultra1 
+!track Dedenne level25 maxLevel40 great1 
+!track Carbink level25 maxLevel40 great1 
+!track Bergmite level15 maxLevel40 great1 
+!track Bergmite level25 maxLevel40 ultra1 
+!track Noibat level15 maxLevel40 great1 
+!track Noibat level25 maxLevel40 ultra1 
+!track Rowlet level15 maxLevel40 atk0 def14 sta11 maxatk0 maxdef14 maxsta11 great1 
+!track Rowlet level25 maxLevel40 ultra1 
+!track Litten level15 maxLevel40 atk0 def15 sta9 maxatk0 maxdef15 maxsta9 great1 
+!track Litten level25 maxLevel40 ultra1 
+!track Popplio level15 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 great1 
+!track Popplio level25 maxLevel40 ultra1 
+!track Pikipek level15 maxLevel40 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 great1 
+!track Pikipek level25 maxLevel40 ultra1 
+!track Yungoos level20 maxLevel40 great1 
+!track Crabrawler level15 maxLevel40 atk0 def11 sta15 maxatk0 maxdef11 maxsta15 great1 
+!track Crabrawler level25 maxLevel40 ultra1 
+!track Oricorio level20 maxLevel40 great1 
+!track Oricorio level25 maxLevel40 ultra1 
+!track Rockruff level15 maxLevel40 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 great1 
+!track Rockruff level25 maxLevel40 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 ultra1 
+!track Rockruff level15 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 great1 
+!track Rockruff level25 maxLevel40 atk1 def15 sta14 maxatk1 maxdef15 maxsta14 ultra1 
+!track Mudbray level15 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 great1 
+!track Mudbray level25 maxLevel40 ultra1 
+!track Morelull level25 maxLevel40 great1 
+!track Salandit level15 maxLevel40 great1 female
+!track Salandit level25 maxLevel40 ultra1 female
+!track Stufful level15 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 great1 
+!track Stufful level25 maxLevel40 ultra1 
+!track Oranguru level20 maxLevel40 great1 
+!track Oranguru level25 maxLevel40 ultra1 
+!track Pyukumuku level25 maxLevel40 great1 
+!track Turtonator level20 maxLevel40 great1 
+!track Mimikyu level20 maxLevel40 great1 
+!track Mimikyu level25 maxLevel40 ultra1 
+!track Bruxish level25 maxLevel40 ultra1 
+!track Drampa level15 maxLevel40 great1 
+!track Drampa level25 maxLevel40 ultra1 
+!track Dhelmise level15 maxLevel40 great1 
+!track Dhelmise level25 maxLevel40 ultra1 
+!track Skwovet level20 maxLevel40 great1 
+!track Yamask formGalarian level20 maxLevel40 atk0 def11 sta14 maxatk0 maxdef11 maxsta14 great1 
+!track Yamask formGalarian level25 maxLevel40 atk0 def15 sta15 maxatk10 maxdef15 maxsta15 ultra1 
+!track Stantler level15 maxLevel20 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 
+!track Stantler level25 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 
+!track Scyther level15 maxLevel18 atk0 def15 sta8 maxatk0 maxdef15 maxsta8 
+!track Scyther level25 maxLevel29 atk1 def15 sta13 maxatk1 maxdef15 maxsta13 
+!track Teddiursa level10 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 great1 
+!track Teddiursa level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 ultra1 
+!track Qwilfish formHisuian level10 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Qwilfish formHisuian level25 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 ultra1 
+!track Dratini level25 maxLevel40 great1 
+!track Eevee iv100 level30 maxLevel40 
+!track Charmander level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Solrock level30 maxLevel40 ultra1 
+!track Sneasel formNormal level25 maxLevel40 ultra1 
+!track Sneasel formNormal level15 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 great1 
+!track Sneasel formHisuian iv100 
+!track Sneasel formHisuian atk0 def15 sta9 maxatk0 maxdef15 maxsta9 great1 
+!track Sneasel formHisuian ultra1 
+!track Squirtle level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Komala level15 maxLevel40 great1 
+!track Komala level25 maxLevel40 ultra1 
+!track Jangmo-o level25 maxLevel40 atk0 def13 sta15 maxatk0 maxdef13 maxsta15 great1 
+!track Jangmo-o level10 maxLevel40 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 great1 
+!track Omanyte level15 maxLevel40 atk0 def9 sta15 maxatk0 maxdef9 maxsta15 great1 
+!track Tirtouga level15 maxLevel40 atk1 def14 sta15 maxatk1 maxdef14 maxsta15 great1 
+!track Aerodactyl level25 maxLevel40 ultra1 
+!track Kabuto level15 maxLevel40 atk0 def14 sta10 maxatk0 maxdef14 maxsta10 great1 
+!track Anorith level25 maxLevel40 ultra1 
+!track Archen level20 maxLevel40 ultra1 
+!track Petilil level20 maxLevel40 great1 
+!track Lickitung level20 maxLevel40 atk8 def15 sta14 maxatk8 maxdef15 maxsta14 great1 
+!track Audino iv100 level20 maxLevel40 
+!track Fuecoco level13 maxLevel18 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 
+!track Fuecoco level25 maxLevel32 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Houndour level15 maxLevel40 great1 
+!track Quaxly level25 maxLevel31 atk1 def15 sta14 maxatk1 maxdef15 maxsta14 
+!track Lechonk level15 maxLevel22 atk0 def11 sta15 maxatk0 maxdef11 maxsta15 male
+!track Lechonk level25 maxLevel40 atk0 def14 sta12 maxatk0 maxdef14 maxsta12 male
+!track Lechonk level17 maxLevel23 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 female
+!track Bombirdier iv100 
+!track Bombirdier level15 maxLevel40 great1 
+!track Bombirdier level25 maxLevel40 ultra1 
+!track Sprigatito level25 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 
+!track Pawmi level15 maxLevel21 atk2 def15 sta15 maxatk2 maxdef15 maxsta15 
+!track Pawmi level25 maxLevel40 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Nymble level20 maxLevel24 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 
+!track Quaxly level13 maxLevel18 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Mankey level23 maxLevel28 atk0 def15 sta15 maxatk0 maxdef15 maxsta15 
+!track Mankey level13 maxLevel17 atk2 def15 sta15 maxatk2 maxdef15 maxsta15 
+!track Mankey level20 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Sandygast level19 maxLevel40 great1 
+!track Sandygast level25 maxLevel40 ultra1 
+!track Abra level13 maxLevel40 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 great1 
+!track Abra level25 maxLevel40 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 ultra1 
+!track Girafarig level15 maxLevel20 atk0 def15 sta8 maxatk0 maxdef15 maxsta8 
+!track Girafarig level25 maxLevel36 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 
+!track Dunsparce level15 maxLevel21 atk0 def15 sta7 maxatk0 maxdef15 maxsta7 
+!track Dunsparce level25 maxLevel39 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 
+!track Rhyhorn level10 maxLevel15 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 great1 
+!track Rhyhorn level20 maxLevel25 atk0 def14 sta14 maxatk0 maxdef14 maxsta14 ultra1 
+!track Growlithe formHisuian iv100 
+!track Growlithe formHisuian level25 maxLevel40 ultra1 
+!track Growlithe formHisuian level15 maxLevel40 atk0 def14 sta10 maxatk0 maxdef14 maxsta10 great1 
+!track Falinks level20 maxLevel40 great1 
+!track Falinks level25 maxLevel40 ultra1 
+!track Pumpkaboo formSuper level25 maxLevel40 ultra1 
+!track Pumpkaboo formLarge level15 maxLevel40 great1 
+!track Pumpkaboo formLarge level25 maxLevel40 ultra1 
+!track Pumpkaboo formSmall level20 maxLevel40 great1 
+!track Pumpkaboo formSmall level25 maxLevel40 ultra1 
+!track Pumpkaboo formAverage level25 maxLevel40 ultra1 
+!track Pumpkaboo formAverage level20 maxLevel40 great1 
+!track Smoliv level15 maxLevel19 atk0 def14 sta15 maxatk0 maxdef14 maxsta15 
+!track Litwick level23 maxLevel40 ultra1 
+!track Litwick level13 maxLevel40 atk0 def15 sta14 maxatk0 maxdef15 maxsta14 great1 
+!track Frigibax level20 maxLevel27 atk0 def14 sta13 maxatk0 maxdef14 maxsta13 
+!track Frigibax level10 maxLevel16 atk0 def15 sta5 maxatk0 maxdef15 maxsta5 
+!track Frigibax level20 maxLevel26 atk1 def15 sta15 maxatk1 maxdef15 maxsta15 
+!track Greavard iv100 
+!track Greavard level15 maxLevel40 great1 
+!track Greavard level25 maxLevel40 ultra1 
+!track Tadbulb level15 maxLevel40 great1 
+!track Tadbulb level25 maxLevel40 ultra1 
+!track Gligar level15 maxLevel40 atk0 def15 sta14 maxatk1 maxdef15 maxsta14 great1 
+!track Gligar level20 maxLevel40 atk0 def15 sta12 maxatk0 maxdef15 maxsta12 great1 
+!track Clamperl level15 maxLevel40 great1 
+!track Clamperl level25 maxLevel40 ultra1 
+!track Bronzor level25 maxLevel40 ultra1 
+!track Bounsweet level15 maxLevel40 atk0 def15 sta13 maxatk0 maxdef15 maxsta13 great1 
+!track Passimian level13 maxLevel40 great1 
+!track Passimian level25 maxLevel40 ultra1 
+!track Darumaka formNormal level15 maxLevel40 atk0 def15 sta11 maxatk0 maxdef15 maxsta11 great1 
+!track Darumaka formNormal level25 maxLevel40 ultra1 
+!track Darumaka formGalarian level15 maxLevel40 atk0 def15 sta11 maxatk0 maxdef15 maxsta11 great1 
+!track Darumaka formGalarian level25 maxLevel40 ultra1 
